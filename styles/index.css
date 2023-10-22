@@ -127,10 +127,29 @@ button {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
+    text-wrap: wrap;
 }
 
 .qoutes strong {
     font-size: 26px;
     text-align: right;
     padding-right: 20px;
+}
+/* Sign up Section */
+.signup {
+    padding: 100px 15em;
+    color: var(--clr-white);
+}
+
+.signup-container {
+    background-color: var(--clr-btn);
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.signup-btn {
+    border: 2px solid var(--clr-white);
 }
