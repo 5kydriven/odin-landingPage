@@ -50,7 +50,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 100px 15em;
+    padding: 170px 15em;
 }
 
 .hero-title {
@@ -80,7 +80,7 @@ button {
 
 /* feature Section */
 .feature {
-    padding: 100px 15em;
+    padding: 170px 11em;
 }
 
 .feature-title {
